@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet implémente un processeur 16 bits à architecture Harvard en VHDL, synthétisable sur FPGA. Il intègre une unité de contrôle basée sur une machine à états finis (FSM), une unité arithmétique et logique (UAL), une mémoire RAM interne, un bootloader UART pour le chargement dynamique des programmes, ainsi que des périphériques mémoire‑mappés.
+Ce projet implémente un processeur 16 bits à Architecture Von Neumann en VHDL, synthétisable sur FPGA. Il intègre une unité de contrôle basée sur une machine à états finis (FSM), une unité arithmétique et logique (UAL), une mémoire RAM interne, un bootloader UART pour le chargement dynamique des programmes, ainsi que des périphériques mémoire‑mappés.
 
 Le projet inclut également un assembleur personnalisé en C++ avec analyseur lexical, permettant de traduire un langage assembleur lisible en code machine 16 bits.
 
