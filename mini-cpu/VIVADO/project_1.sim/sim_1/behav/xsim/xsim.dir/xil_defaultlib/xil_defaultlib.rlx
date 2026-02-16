@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/CPU/CPU_Bootloader.vhd,1769589763,vhdl,,,,cpu_bootloader,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/CPU/UART_fifoed_send_V1.vhd,1768336119,vhdl,,,,uart_fifoed_send,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/CPU/boot_loader.vhd,1768336119,vhdl,,,,boot_loader,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/CPU/byte_2_word.vhd,1768336119,vhdl,,,,byte_2_word,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/CPU/uart_recv.vhd,1768336119,vhdl,,,,uart_recv,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/CPU/word_2_byte.vhd,1768336119,vhdl,,,,word_2_byte,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/SIMU/read_int_file.vhd,1768336119,vhdl,,,,read_int_file,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/SIMU/tb_CPU_Bootloader.vhd,1769583405,vhdl,,,,tb_cpu_bootloader,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/imports/VHDL/SIMU/write_int_file.vhd,1768336119,vhdl,,,,write_int_file,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/CTRL_LED.vhd,1769588528,vhdl,,,,ctrl_led,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/Control_unit.vhd,1769430752,vhdl,,,,control_unit,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/FSM.vhd,1769431158,vhdl,,,,fsm,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/PC.vhd,1768565071,vhdl,,,,pc,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/Processing_unit.vhd,1769431210,vhdl,,,,processing_unit,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/RAM_SP_64_8.vhd,1768380352,vhdl,,,,ram_sp_64_8,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/RI.vhd,1769589802,vhdl,,,,ri,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/Registre_File.vhd,1769423986,vhdl,,,,registre_file,,,,,,,,
+/net/netud/e/nhitar/Bureau/Conception_CPU/mini-cpu-students/mini-cpu/VIVADO/project_1.srcs/sources_1/new/UAL.vhd,1769583170,vhdl,,,,ual,,,,,,,,
