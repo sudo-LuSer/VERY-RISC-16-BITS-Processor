@@ -67,5 +67,4 @@ g++ -o assembleur assembleur.cpp
 
 ## Auteur
 Nasr-allah HITAR 
-
-'Encadrant' : Camille LEROUX suite au Module : Conception d'un processeur Very-RISC
+## Encadrant : Camille LEROUX suite au Module : Conception d'un processeur Very-RISC
